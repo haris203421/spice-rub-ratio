@@ -1,0 +1,10 @@
+{
+  "attempts": [
+    {
+      "stage": "build",
+      "raw_stage": "build",
+      "status": "SUCCESS_WITH_WARNINGS",
+      "at_epoch": 1793953471
+    }
+  ]
+}

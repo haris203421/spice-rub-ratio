@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spice Rub Ratio</string>
+    <string name="app_title">Spice Rub Ratio</string>
+    <string name="tagline">PARTS IN, GRAMS OUT</string>
+    <string name="loading">WARMING THE MILL</string>
+    <string name="cd_loading">Loading the spice cabinet</string>
+
+    <string name="start_blend">START BLEND</string>
+    <string name="start_blend_hint">Build a new rub from parts</string>
+    <string name="stat_blends">RUBS SAVED</string>
+    <string name="stat_spices">SPICES</string>
+    <string name="hint_open_blend">Tap a rub to open and rescale it</string>
+    <string name="empty_cabinet">NO RUBS YET</string>
+    <string name="empty_cabinet_hint">Start a blend and it lands in the cabinet</string>
+
+    <string name="heat_and_salt">HEAT AND SALT</string>
+    <string name="spice_pantry">SPICE PANTRY</string>
+    <string name="cd_open_pantry">Open the spice pantry</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_back_to_cabinet">Back to the cabinet</string>
+
+    <string name="label_total_parts">PARTS</string>
+    <string name="grams_total">TOTAL</string>
+    <string name="group_heat">HEAT</string>
+    <string name="group_salt">SALT</string>
+    <string name="label_yield">YIELD</string>
+    <string name="cd_remove_spice">Remove %1$s from the rub</string>
+    <string name="state_parts">%1$s parts</string>
+    <string name="batch_target">BATCH TARGET</string>
+    <string name="batch_meat">FOR 1 KG MEAT</string>
+    <string name="batch_chip">%1$d g</string>
+    <string name="hint_need_spices">Add at least two spices to scale</string>
+    <string name="scale_and_label">SCALE AND LABEL</string>
+    <string name="label_grams">GRAMS</string>
+    <string name="label_spoons">SPOONS</string>
+
+    <string name="dial_heat">HEAT DIAL</string>
+    <string name="dial_salt">SALT DIAL</string>
+    <string name="cd_heat_dial">Heat multiplier dial</string>
+    <string name="cd_salt_dial">Salt multiplier dial</string>
+    <string name="state_heat">Heat %1$s</string>
+    <string name="state_salt">Salt %1$s</string>
+    <string name="heat_word_mild">MILD</string>
+    <string name="heat_word_medium">MEDIUM</string>
+    <string name="heat_word_hot">HOT</string>
+    <string name="heat_word_fiery">FIERY</string>
+    <string name="salt_word_low">LOW SALT</string>
+    <string name="salt_word_balanced">BALANCED</string>
+    <string name="salt_word_salty">SALTY</string>
+    <string name="hint_dials_preview">The ratio strip previews every turn of the dials</string>
+    <string name="apply_dials">APPLY DIALS</string>
+
+    <string name="pantry_count">%1$d SPICES</string>
+    <string name="filter_all">ALL</string>
+    <string name="filter_on_hand">ON HAND</string>
+    <string name="filter_heat">HEAT</string>
+    <string name="hint_pantry">Tap a spice to add it to the open rub</string>
+    <string name="form_ground">GROUND</string>
+    <string name="form_seed">SEED</string>
+    <string name="form_flake">FLAKE</string>
+    <string name="density_per_tsp">%1$s per tsp</string>
+    <string name="cd_on_hand">%1$s on hand</string>
+    <string name="empty_filter">NOTHING MATCHES THIS FILTER</string>
+
+    <string name="label_ready">RUB IS READY</string>
+    <string name="label_jar_hint">Scrape into a jar and label it today</string>
+    <string name="cd_label_seal">Finished rub label seal</string>
+    <string name="label_recipe">RECIPE</string>
+    <string name="label_batch">BATCH</string>
+    <string name="best_before">KEEPS %1$d DAYS</string>
+    <string name="blend_again">BLEND AGAIN</string>
+    <string name="back_to_menu">MENU</string>
+</resources>

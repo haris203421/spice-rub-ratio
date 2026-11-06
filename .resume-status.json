@@ -1,0 +1,8 @@
+{
+  "outcome": "running",
+  "fix_type": "transient",
+  "resume_from": "build",
+  "message": "Resuming from build (transient)…",
+  "log": "projects/SpiceRubRatio/.resume-20261106-092431.log",
+  "attempted_at_epoch": 1793953473
+}
